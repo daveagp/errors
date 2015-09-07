@@ -1,0 +1,572 @@
+702102	cannot find symbol - variable <NAME>
+407776	';' expected
+280874	cannot find symbol - method <NAME>
+197213	cannot find symbol - class <NAME>
+183908	incompatible types
+180287	')' expected
+173091	illegal start of expression
+147787	<identifier> expected
+132080	<METHOD> cannot be applied to <TYPE>
+120817	not a statement
+113686	reached end of file while parsing
+96703	missing return statement
+91452	class, interface, or enum expected
+78561	variable <NAME> is already defined in <METHOD>
+66082	variable <VARIABLE> might not have been initialized
+58164	possible loss of precision, found: <TYPE> required: <TYPE>
+56830	package <PACKAGE> does not exist
+56407	invalid <METHOD>; return type required
+48925	'.class' expected
+43056	illegal start of type
+37386	bad operand types <TYPE> for binary operator ' ' First type: <TYPE> Second type: <TYPE>
+35179	no suitable method found for <NAME>
+31518	illegal character <NAME>
+29965	unclosed string literal
+29134	'else' without 'if'
+28854	unexpected type, found: <TYPE> required: <TYPE>
+26058	'(' or '[' expected
+25389	java.lang.NullPointerException
+21414	non-static <METHOD> cannot be referenced from a static context
+20995	'(' expected
+20232	java.lang.ArrayIndexOutOfBoundsException
+20111	cannot return a value from <METHOD> result type is void
+19528	non-static <VARIABLE> cannot be referenced from a static context
+19373	<CLASS> is public and should be declared in a file named <FILE>
+18898	java.util.InputMismatchException
+18782	<NAME> is not abstract and does not override abstract method <METHOD> in <CLASS>
+18413	missing <METHOD>, or declare abstract
+18229	<TYPE> cannot be dereferenced
+18177	unreachable statement
+16475	no suitable constructor found for <NAME>
+16340	incompatible types - found: <TYPE> but expected <TYPE>
+16336	'{' expected
+14834	<NAME> has private access in <NAME>
+13420	java.lang.StringIndexOutOfBoundsException
+11303	incomparable types: <TYPE> and <TYPE>
+11239	unclosed character literal
+10673	java.lang.NumberFormatException # is an invalid <TYPE>
+10464	unreported exception <NAME> thrown
+10323	']' expected
+8204	'void' type not allowed here
+7145	java.lang.ArithmeticException Division by zero.
+6861	illegal escape character
+6744	unmappable character for encoding <NAME>
+6600	integer number too large: #
+6453	cannot find symbol - constructor <NAME>
+5616	while expected
+5388	array required, but <TYPE> found
+4977	class expected
+4920	bad operand type <TYPE> for unary operator ' '
+4267	java.lang.StackOverflowError
+3807	inconvertible types, found: <TYPE> required: <TYPE>
+3728	array dimension missing
+3639	java.lang.IndexOutOfBoundsException
+3344	missing return value
+3071	java.util.IllegalFormatConversionException
+2711	cannot access <NAME>
+2636	'.' expected
+2633	illegal initializer for <NAME>
+2620	empty character literal
+2522	<NAME> is abstract; cannot be instantiated
+2388	> expected
+2373	modifier (enum/abstract/final/private/static/protected/public) not allowed here
+2346	unclosed comment
+2318	java.lang.IllegalArgumentException Invalid argument.
+2312	java.lang.IllegalMonitorStateException
+2282	orphaned case
+2191	java.util.NoSuchElementException
+2185	: expected
+2042	'}' expected
+2037	'[' expected
+1974	cannot assign a value to final variable <NAME>
+1952	'try' without 'catch', 'finally' or resource declarations
+1948	break outside switch or loop
+1843	<METHOD> is not public in <CLASS>; cannot be accessed from outside package
+1701	call to <NAME> must be first statement in constructor
+1649	duplicate class: <CLASS>
+1613	java.util.UnknownFormatConversionException
+1574	java.util.MissingFormatArgumentException
+1553	java.lang.NoClassDefFoundError <CLASS>
+1462	case, default, or '}' expected
+1396	error while writing: (Access is denied)
+1344	'catch' without 'try'
+1305	java.util.InputMismatchException For input string: "#"
+1303	incompatible types: <TYPE> cannot be converted to <TYPE>
+1256	Illegal static declaration in inner class <CLASS> modifier 'static' is only allowed in constant <VARIABLE>
+1214	illegal line end in character literal
+1114	for-each not applicable to expression type\n required: <TYPE> found: <TYPE>
+1083	java.io.FileNotFoundException (The system cannot find the file specified)
+1023	exception <NAME> is never thrown in body of corresponding try statement
+999	<METHOD> in <CLASS> cannot override <METHOD> in <CLASS>: return type <TYPE> is not compatible with <TYPE>
+978	return outside method
+944	<METHOD> in <CLASS> cannot override <METHOD> in <CLASS>: attempting to assign weaker access privileges; was public/protected/package
+917	malformed floating point literal
+893	cannot reference <NAME> before supertype <CONSTRUCTOR> been called
+827	<METHOD> in <CLASS> cannot implement <METHOD> in <CLASS>: attempting to assign weaker access privileges; was public/protected/package
+804	java.lang.AssertionError
+727	local variable <NAME> final
+674	interface expected here
+653	<METHOD> not override or implement a <METHOD> a supertype
+633	illegal combination of modifiers (abstract/final/private/static/volatile/protected/public)
+616	repeated modifier
+611	type <TYPE> does not take parameters
+607	java.lang.ClassCastException <CLASS> cannot be cast to <CLASS>
+582	java.util.NoSuchElementException No line found
+555	java.util.ConcurrentModificationException
+534	java.util.IllegalFormatPrecisionException
+483	java.lang.OutOfMemoryError Java heap space
+475	error while writing: (Zugriff verweigert)
+467	java.lang.NoSuchMethodError <METHOD>
+465	recursive <CONSTRUCTOR>
+451	duplicate case label
+437	<NAME> has protected access in <NAME>
+407	java.net.SocketException Connection reset
+406	orphaned default
+390	java.io.FileNotFoundException (No such file or directory)
+382	#NAME?
+371	cyclic inheritance involving <NAME>
+356	illegal forward reference
+350	reference to <METHOD> is ambiguous, both <METHOD> in <CLASS> and <METHOD> in <CLASS> match
+341	constant expression required
+336	no interface expected here
+331	java.lang.Exception
+325	<METHOD> in <CLASS> cannot override <METHOD> in <CLASS>: overridden <METHOD> static/final
+301	abstract methods cannot have a body
+280	',', '}', or ';' expected
+255	continue outside of loop
+254	interface methods cannot have body
+252	error reading: error in opening zip file
+245	java.util.regex.PatternSyntaxException
+235	undefined label: <NAME>
+223	java.lang.IllegalStateException Scanner closed
+219	wrong number of type arguments; required #
+215	generic array creation
+213	java.lang.RuntimeException The UI was not initialised or had been quit
+205	illegal unicode escape
+203	error while writing: (Acceso denegado)
+199	'try' without 'catch' or 'finally'
+196	self-reference in initializer
+189	java.util.MissingFormatWidthException
+177	floating point number too large
+151	java.lang.ClassNotFoundException <CLASS>
+143	java.util.FormatFlagsConversionMismatchException
+136	array required: <TYPE> found: <TYPE>
+128	error while writing: (Toegang geweigerd)
+116	error while writing: (Permission denied)
+111	java.lang.IllegalAccessError tried to access class <CLASS> or field <FIELD> or method <METHOD>
+110	<METHOD> in <CLASS> cannot implement <METHOD> in <CLASS>: overridden <METHOD> not throw <NAME>
+110	as of release #, ' as an identifier)
+109	java.util.EmptyStackException
+105	<METHOD> in <CLASS> cannot implement <METHOD> in <CLASS>: overridden <METHOD> static/final
+104	name clash: <NAME> and <NAME> other
+98	variable <VARIABLE> might already have been assigned
+93	exception <NAME> has already been caught
+92	not an enclosing class: <CLASS>
+91	enum types must not be local
+89	java.lang.IllegalStateException This actor is not in a grid.
+89	illegal underscore
+87	error while writing: (Acesso negado)
+86	java.io.FileNotFoundException (The system cannot find the path specified)
+85	java.lang.NullPointerException <NAME> must not be null.
+82	floating point number too small
+82	foreach not applicable to expression type
+79	java.lang.UnsatisfiedLinkError no <?> in java.library.path
+75	becker.robots.RobotException
+75	package <PACKAGE> clashes with <CLASS> same name
+73	java.util.IllegalFormatFlagsException
+73	<METHOD> in <CLASS> cannot implement <METHOD> in <CLASS>: return type <TYPE> is not compatible with <TYPE>
+72	an enum switch case label must be the unqualified name of an enumeration constant
+70	java.lang.IllegalStateException No robot has been created yet
+70	inner classes cannot have static declarations
+67	abstract method <METHOD> cannot be accessed directly
+66	annotation type not applicable to this kind of declaration
+65	cannot inherit from final <NAME>
+61	java.lang.NegativeArraySizeException
+60	non-static type <VARIABLE> cannot be referenced from a static context
+59	java.util.InputMismatchException Value out of range: #
+59	enum types may not be instantiated
+57	java.awt.AWTError BoxLayout can't be shared
+53	java.lang.IllegalStateException This actor is already contained in a grid.
+52	<METHOD> in <CLASS> cannot override <METHOD> in <CLASS>: overridden <METHOD> not throw <NAME>
+51	java.lang.UnsupportedClassVersionError major.minor version #.#
+51	error: error reading: cannot read zip file
+50	hexadecimal numbers must contain at least one hexadecimal digit
+49	illegal start of statement
+48	cannot infer type arguments for <TYPE>;
+46	error reading: cannot read zip file
+45	java.net.BindException Address already in use: #
+38	java.lang.ArrayStoreException
+38	java.lang.IllegalThreadStateException
+37	'finally' without 'try'
+37	type argument <NAME> is not within bounds of type variable <NAME>
+36	java.io.IOException Stream closed
+36	error while writing: (Read-only file system)
+35	java.sql.SQLException
+35	an enclosing instance that contains <NAME> is required
+34	duplicate default label
+33	java.io.FileNotFoundException (Access is denied)
+32	illegal generic type for instanceof
+31	java.net.ConnectException Connection refused
+30	java.util.InputMismatchException The Text Pane says ' '
+30	error reading: (Access is denied)
+29	com.vmware.vim25.InvalidLogin
+27	java.io.IOException Cannot run program "#": CreateProcess error=2, The system cannot find the file specified
+26	java.util.InputMismatchException radix 1 less than Character.MIN_RADIX
+25	-> expected
+24	java.lang.NoSuchFieldError <FIELD>
+24	java.util.DuplicateFormatFlagsException
+24	<NAME> cannot be inherited with different arguments: <1> and <2>
+24	final parameter <NAME> assigned
+23	java.net.UnknownHostException <HOST>
+23	code too large
+21	java.lang.IllegalStateException No match found
+21	java.lang.OutOfMemoryError Requested array size exceeds VM limit
+21	error while writing: No space left on device
+20	java.io.FileNotFoundException
+20	java.lang.RuntimeException java.io.FileNotFoundException (No such file or directory)
+20	error while writing: (Keine Berechtigung)
+20	error while writing: There is not enough space on the disk
+19	acm.util.ErrorException Main class does not specify a program
+19	java.io.IOException File not found:
+19	java.rmi.RemoteException VI SDK invoke exception
+19	ListIndexOutOfBoundsException
+18	java.io.FileNotFoundException (The filename, directory name, or volume label syntax is incorrect)
+18	java.lang.IllegalStateException
+18	java.lang.OutOfMemoryError GC overhead limit exceeded
+18	illegal qualifer: <NAME> class
+18	variable <VARIABLE> might be assigned in loop
+17	java.awt.IllegalComponentStateException The frame is displayable.
+17	java.io.UnsupportedEncodingException
+17	java.lang.UnsupportedOperationException getTime() is no longer supported - use System.currentTimeMillis() instead
+17	java.util.InputMismatchException JSON string for member of congress in wrong format
+17	javax.crypto.BadPaddingException Data must start with zero
+17	duplicate annotation
+16	java.net.MalformedURLException no protocol: <PROTOCOL>
+16	java.util.MissingResourceException Can't find bundle for base name <BASENAME>
+15	java.lang.RuntimeException Input buffer broken
+15	<VARIABLE> not allowed here
+15	incompatible types; no instance(s) of type variable(s) <TYPE> exist so that <TYPE> conforms to <TYPE>
+15	initializer must be able to complete normally
+14	java.lang.IllegalStateException Unfinished shape cannot run method: <METHOD> setPosition
+13	com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException Duplicate entry(' ')
+13	java.lang.RuntimeException JOptionPane: type must be one of JOptionPane.ERROR_MESSAGE, JOptionPane.INFORMATION_MESSAGE, JOptionPane.WARNING_MESSAGE, JOptionPane.QUESTION_MESSAGE or JOptionPane.PLAIN_MESSAGE
+13	error reading: zip file is empty
+13	not a loop label: <NAME>
+12	java.lang.UnsupportedOperationException
+12	java.util.IllegalFormatWidthException
+12	error while writing: Disc quota exceeded
+11	java.io.NotSerializableException
+11	java.lang.IllegalStateException Unfinished shape cannot run method: <METHOD> setSize
+11	java.lang.NullPointerException <NAME>
+11	java.lang.UnsatisfiedLinkError Library ' '
+11	java.net.BindException Permission denied
+11	error while writing: (The media is write protected)
+11	illegal reference to static field from initializer
+10	java.lang.RuntimeException JOptionPane: option type must be one of JOptionPane.DEFAULT_OPTION, JOptionPane.YES_NO_OPTION, JOptionPane.YES_NO_CANCEL_OPTION or JOptionPane.OK_CANCEL_OPTION
+10	binary numbers must contain at least one binary digit
+10	error while writing: (The process cannot access <NAME>
+10	error while writing: could not create parent directories
+10	name clash: <NAME> and <NAME> erasure
+9	com.mysql.jdbc.exceptions.jdbc4.CommunicationsException
+9	java.lang.ArithmeticException BigInteger: modulus not positive
+9	java.lang.IllegalStateException Name must not be empty.
+9	java.lang.InstantiationError Object
+9	java.lang.RuntimeException java.lang.ArrayIndexOutOfBoundsException
+9	NullDivision
+9	org.openqa.selenium.NoSuchElementException unable to locate node using <INPUT>
+9	as of release #, ' is allowed as the parameter name for the receiver type only, which has to be the first parameter
+9	error while writing: (The file cannot be accessed by the system)
+8	acm.util.ErrorException java.io.FileNotFoundException (The process cannot access the file because it is being used by another process)
+8	edu.cmu.sphinx.util.props.InternalConfigurationException Can't locate resource
+8	java.io.FileNotFoundException (The process cannot access the file because it is being used by another process)
+8	java.lang.NullPointerException No robot world has been created to place the robot in.
+8	java.lang.RuntimeException Could not read from the file ' '
+8	java.lang.RuntimeException java.sql.SQLException
+8	java.lang.UnsatisfiedLinkError lejos.nxt.SensorPort.setPowerTypeById(II)V
+8	java.lang.UnsatisfiedLinkError: Can't load IA 32-bit .dll on a AMD 64-bit platform
+8	javax.imageio.IIOException Can't read input file!
+8	error reading: error reading zip file
+8	error: Exception thrown while constructing Processor object: com/jogamp/gluegen/structgen/CStructAnnotationProcessor : Unsupported major.minor version 51.0
+8	interface not allowed here
+7	ClaveDuplicadaException
+7	java.awt.AWTError Illegal request
+7	java.io.EOFException
+7	java.lang.IllegalStateException Provider may only be changed before input is created!
+7	java.nio.BufferUnderflowException
+7	javax.sound.sampled.UnsupportedAudioFileException could not get audio input stream from input file <FILE>
+7	Alternatives in a multi-catch statement cannot be related by subclassing
+7	anonymous <CLASS> interface; cannot have arguments
+7	error while writing: (No space left on device)
+6	com.db4o.ext.DatabaseClosedException
+6	com.jme3.asset.AssetNotFoundException textures/doty.gif (Flipped) (Mipmapped)
+6	gumball.HasQuarterException
+6	java.lang.IllegalStateException just testing!
+6	java.lang.IncompatibleClassChangeError Expected static method <METHOD>
+6	java.lang.UnsatisfiedLinkError NativeProcess.createProcess(Ljava/lang/String;Ljava/lang/String;ZLjava/io/FileDescriptor;Ljava/io/FileDescriptor;Ljava/io/FileDescriptor;)I
+6	java.net.BindException Address already in use
+6	java.net.MalformedURLException Unsupported protocol: <PROTOCOL>
+6	java.security.InvalidKeyException Wrong algorithm: AES or Rijndael required
+6	java.util.NoSuchElementException The queue is currently empty.
+6	LengthException
+6	OverflowException
+6	SpaceOccupiedException
+6	error while writing: (Permiso denegado)
+6	non-static method <T>getList(T...) cannot be referenced from a static context
+5	EmptyListException
+5	InvalidInputException
+5	InvalidMoveException
+5	java.awt.geom.IllegalPathStateException missing initial moveto in path definition
+5	java.awt.image.RasterFormatException Transformed height/width (0) is less than or equal to 0.
+5	java.lang.ClassFormatError Truncated class file
+5	java.lang.Error Could not find class ' ' while reading a city.
+5	java.lang.IllegalStateException Invalid boundary limits.
+5	java.net.MalformedURLException unknown protocol: <PROTOCOL>
+5	java.text.ParseException Unparseable date: "#"
+5	javax.imageio.IIOException Unsupported Image Type
+5	javax.media.opengl.GLException No default device available
+5	StackUnderflowException Stack Underflow
+5	TerminalException
+5	utils.NotFoundException Not Found
+5	constant string too long
+5	error reading: (The system cannot find the file specified)
+5	error while writing: (The requested operation cannot be performed on a file with a user-mapped section open)
+4	com.vmware.vim25.DuplicateName
+4	java.io.IOException Server returned HTTP response code: 400 for URL
+4	java.lang.ArithmeticException Non-terminating decimal expansion; no exact representable decimal result.
+4	java.lang.IllegalStateException Either the name or phone must not be blank.
+4	java.lang.IllegalStateException Worth must not be negative.
+4	java.lang.RuntimeException JOptionPane: parentComponent does not have a valid parent
+4	java.lang.Throwable
+4	java.lang.UnsatisfiedLinkError lejos.nxt.LCD.getSystemFont()[B
+4	java.lang.UnsupportedOperationException getGraphics() not valid for images created with createImage(producer)
+4	java.net.ConnectException Connection timed out: connect
+4	java.nio.file.InvalidPathException Illegal Char <CHAR>
+4	javax.crypto.IllegalBlockSizeException Data must not be longer than 64 bytes
+4	javax.mail.SendFailedException Invalid Addresses
+4	UnderflowException
+4	UnexpectedTextfileFormatException Unexpected Length Of Line in <FILE>: # at #
+4	bad initializer for for-loop
+4	illegal '.'
+3	com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException Unknown column ' '
+3	com.vmware.vim25.NotSupported
+3	ElementNotFoundException The target element is not in this <STRUCTURE>
+3	gumball.NoQuarterException
+3	InvalidPositionException
+3	java.awt.IllegalComponentStateException The frame is decorated
+3	java.io.FileNotFoundException (The device is not ready)
+3	java.io.FileNotFoundException <FILE>
+3	java.lang.ArithmeticException Rounding necessary
+3	java.lang.Error setAccelerator() is not defined for JMenu. Use setMnemonic() instead.
+3	java.lang.IllegalStateException Object creation failed, invalid state.
+3	java.lang.IllegalStateException Timer already cancelled.
+3	java.lang.RuntimeException Do not recognize shape
+3	java.lang.RuntimeException Invalid card specification
+3	java.lang.RuntimeException java.io.FileNotFoundException (The system cannot find the file specified)
+3	java.lang.RuntimeException Live cache invalid or missing for Corn
+3	java.lang.RuntimeException missing Flickr API key
+3	java.lang.SecurityException Unexpected Error in Resourcefile: currentLine.length(): 1
+3	java.lang.UnsatisfiedLinkError: Can't find dependent libraries
+3	java.net.BindException Cannot assign requested address: #
+3	MatrixMathException Inverse Error: Matrix is singular and does not have an inverse
+3	MyError java.io.FileNotFoundException:
+3	ThirteenException Use thirteen letter words and stainless steel to protect yourself!
+3	utils.EmptyException StringIntMap.entries
+3	<CLASS>
+3	cannot create array with '<>'
+3	error while writing: (Accesso negato)
+3	non-static <CLASS> cannot be referenced from a static context
+3	repeated interface
+3	unqualified enumeration constant name required
+3	unreported exception <NAME> constructor
+2	acm.util.ErrorException Cannot determine the main class.
+2	anException nahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+2	com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException Table ' ' doesn't exist
+2	eduLine.eduJava$CrossRoadsException DeviceProblem.openUSB
+2	IndexException
+2	java.awt.color.CMMException Invalid image format
+2	java.awt.IllegalComponentStateException The window is showing on screen.
+2	java.io.InvalidClassException local class incompatible: stream classdesc serialVersionUID = 1390623405567409529, local class serialVersionUID = -4616381250237435092
+2	java.io.IOException Cannot run program "#": CreateProcess error=740, The requested operation requires elevation
+2	java.io.IOException Cannot run program "#": error=2, No such file or directory
+2	java.io.IOException Cannot run program # in directory "C:\"): CreateProcess error=2, The system cannot find the file specified
+2	java.io.IOException Cannot run program # in directory "Desktop"): CreateProcess error=267, The directory name is invalid
+2	java.io.IOException could not create audio stream from input file <FILE>
+2	java.io.IOException Failed to open file <FILE> Error message: A device attached to the system is not functioning.
+2	java.io.IOException Negative seek offset
+2	java.io.IOException Stream not marked
+2	java.lang.ArithmeticException NAN
+2	java.lang.ClassFormatError javax/swing/plaf/basic/BasicOptionPaneUI$MultiplexingTextField
+2	java.lang.Error Division by zero.
+2	java.lang.IllegalStateException Cannot get a numeric value from a text cell
+2	java.lang.IllegalStateException No current robot. Specify robot to move using an argument or create a robot first.
+2	java.lang.IllegalStateException There is already some food
+2	java.lang.InternalError Could not create a buffer strategy
+2	java.lang.LinkageError loader constraint violation: when resolving method "bst.BinarySearchTree.insert(Lki/KeyedItem;)V" the class loader (instance of java/net/URLClassLoader) of the current class, TreeSort, and the class loader (instance of sun/misc/Launcher$AppClassLoader) for resolved class, bst/BinarySearchTree, have different Class objects for the type V used in the signature
+2	java.lang.OutOfMemoryError PermGen space
+2	java.lang.RuntimeException File not found
+2	java.lang.RuntimeException java.lang.InstantiationException: blackjack.Player$NotifyWon
+2	java.lang.RuntimeException Matrix is singular or nearly singular
+2	java.lang.RuntimeException Resource not found:
+2	java.lang.RuntimeException Stack underflow
+2	java.lang.SecurityException Access to default session denied
+2	java.lang.ThreadDeath
+2	java.lang.UnsatisfiedLinkError com.sun.midp.main.Configuration.getProperty0(Ljava/lang/String;)Ljava/lang/String;
+2	java.lang.UnsatisfiedLinkError lejos.nxt.MotorPort.getTachoCountById(I)I
+2	java.lang.UnsatisfiedLinkError lejos.nxt.NXT.getUserPages()I
+2	java.lang.UnsatisfiedLinkError MyObject.getClassName()Ljava/lang/String;
+2	java.lang.UnsatisfiedLinkError: Can't load library: <LIBRARY>
+2	java.net.NoRouteToHostException No route to host: connect
+2	java.nio.BufferOverflowException
+2	java.nio.file.NoSuchFileException
+2	java.util.NoSuchElementException No next element
+2	javax.crypto.BadPaddingException Given final block not properly padded
+2	jpl.PrologException PrologException: error(syntax_error(operator_expected), string(' ', 9))
+2	NotImplementedException
+2	NullDisivion
+2	org.apache.poi.openxml4j.exceptions.OpenXML4JRuntimeException Fail to save: an error occurs while saving the package : null
+2	org.restlet.resource.ResourceException Connection Error
+2	OutOfRangeException Input value is out of range: #
+2	QueueUnderflowException There is not any code integer to remove.
+2	StackException List is empty!
+2	StackUnderflowException Operation attempted on an empty stack.
+2	UnsupportedDocumentTypeException
+2	util.LiveCache$InvalidException Live cache invalid or missing for ASX
+2	ValueException error
+2	ZeroDenominatorException denominator = 0
+2	>, extends, or super expected
+2	enum declarations allowed only in static contexts
+2	error while writing: (Acces refuzat)
+2	incompatible types for ?: neither is a subtype of the other
+2	label <NAME> already in use
+2	legacy array notation not allowed on variable-arity parameter
+2	name clash: <NAME> and <NAME> t
+2	no enclosing instance of type <TYPE> scope
+2	removeUpdate(javax.swing.text.AbstractDocument.DefaultDocumentEvent) in MyPanel.CustomTextArea.MyTextDocument cannot override removeUpdate(javax.swing.text.AbstractDocument.DefaultDocumentEvent) in javax.swing.text.PlainDocument\n overridden <METHOD> n
+2	TypewriterEffect.type <TYPE> does not override abstract <METHOD> in java.util.TimerTask
+1	AgeNotNegativeException Message:- Age Can't be -ve dear.. :) :P
+1	anException nahhhhhhhhhhhhhhhhhhhhhhh dont do that, dawg.
+1	BadCostException Price cannot be negative
+1	com.db4o.ext.DatabaseFileLockedException
+1	com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException Undeclared variable: division
+1	com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' ' at line 1
+1	com.vmware.vim25.InvalidArgument
+1	eduLine.eduJava$CrossRoadsException DeviceProblem.setOutput
+1	EmptyCanException
+1	EmptyCollectionException no data in tree
+1	EmptyListaException listapp is empty
+1	Exception_Database Database Error: null
+1	GameRuntimeException All positions have been assigned a player!
+1	GameRuntimeException That command is not understood
+1	InsufficientFunds
+1	java.awt.AWTError Invalid axis
+1	java.awt.datatransfer.UnsupportedFlavorException Unicode String
+1	java.awt.IllegalComponentStateException component must be showing on the screen to determine its location
+1	java.awt.image.RasterFormatException (y + height/width) is outside of Raster
+1	java.io.FileNotFoundException (A required privilege is not held by the client)
+1	java.io.FileNotFoundException (Too many open files)
+1	java.io.IOException Cannot run program # in directory "Desktop:"): CreateProcess error=267, The directory name is invalid
+1	java.io.IOException invalid integer
+1	java.io.StreamCorruptedException invalid stream header: 6D617269
+1	java.lang.AbstractMethodError Laptop.compareTo(LComparable;)I
+1	java.lang.ArithmeticException
+1	java.lang.ArithmeticException BigInteger not invertible.
+1	java.lang.ArithmeticException ERROR
+1	java.lang.ArithmeticException Invalid operation
+1	java.lang.ClassFormatError Unknown constant tag 0 in class file javax/swing/JTextField
+1	java.lang.Error Input contains characters that aren't alphabetic or whitespace.
+1	java.lang.Error Player must be Black or White
+1	java.lang.Error Unresolved compilation problem: \n
+1	java.lang.Error Unresolved compilation problems: \n Syntax error, insert ";" to complete Statement\n Syntax error on token "else", delete this token\n Syntax error, insert ";" to complete ReturnStatement\n Syntax error on token "else", delete this token\n Syntax error on token "}", delete this token\n
+1	java.lang.IllegalStateException Door is already closed
+1	java.lang.IllegalStateException getPipSum called, but dice not rolled
+1	java.lang.IllegalStateException javax.swing.JLabel[,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Mening,verticalAlignment=CENTER,verticalTextPosition=CENTER] is not attached to a horizontal group
+1	java.lang.IllegalStateException oh snap, something went wrong!
+1	java.lang.IllegalStateException OutOfBeepers
+1	java.lang.IllegalStateException The grid contains a different actor at location (0, 9).
+1	java.lang.IllegalStateException The multishape has to have at least one part
+1	java.lang.IllegalStateException Unknown doneness
+1	java.lang.IncompatibleClassChangeError Expected static field <FIELD>
+1	java.lang.LinkageError loader constraint violation: when resolving method "bst.BinarySearchTree.retrieve(Ljava/lang/Comparable;)Lki/KeyedItem;" the class loader (instance of java/net/URLClassLoader) of the current class, TreeSort, and the class loader (instance of sun/misc/Launcher$AppClassLoader) for resolved class, bst/BinarySearchTree, have different Class objects for the type retrieve used in the signature
+1	java.lang.NullPointerException Division by zero.
+1	java.lang.RuntimeException
+1	java.lang.RuntimeException cannot delete
+1	java.lang.RuntimeException Date string <19-8-2013 11:00:00> not recognised because it contains extra characters after a date.
+1	java.lang.RuntimeException Error
+1	java.lang.RuntimeException Error. You have not entered enough values
+1	java.lang.RuntimeException Failed : HTTP error code : 403
+1	java.lang.RuntimeException imageWidth: 422 != imageHeight: 357
+1	java.lang.RuntimeException Input integer must be greater than 2.
+1	java.lang.RuntimeException Invalid response
+1	java.lang.RuntimeException java.io.FileNotFoundException (Not a directory)
+1	java.lang.RuntimeException No background cache for ASX
+1	java.lang.RuntimeException No console class
+1	java.lang.RuntimeException No file inputed
+1	java.lang.RuntimeException Room outside the main entrance of the university already contains torch.
+1	java.lang.UnsatisfiedLinkError Cannot load 32-bit SWT libraries on 64-bit JVM
+1	java.lang.UnsatisfiedLinkError Expecting an absolute path of the library: <LIBRARY>
+1	java.lang.UnsupportedOperationException Java Runtime Environment (JRE) version 1.7 is not supported by this driver. Use the sqljdbc4.jar class library, which provides support for JDBC 4.0.
+1	java.lang.UnsupportedOperationException No default technique on material ' '\n is supported by the video hardware. The caps [GLSL100] are required.
+1	java.lang.UnsupportedOperationException Not supported yet.
+1	java.lang.UnsupportedOperationException Not yet implemented
+1	java.net.SocketException Network is unreachable
+1	java.net.SocketException socket closed
+1	java.nio.channels.NotYetConnectedException
+1	java.rmi.ConnectException Connection refused
+1	java.security.InvalidKeyException Invalid AES key length: 8 bytes
+1	java.security.InvalidKeyException No installed provider supports this key: javax.crypto.spec.SecretKeySpec
+1	java.security.InvalidKeyException Parameters missing
+1	java.security.InvalidParameterException RSA keys must be at least 512 bits long
+1	java.security.NoSuchAlgorithmException Cannot find any provider supporting DES/ECB/PKS5Padding
+1	java.security.NoSuchAlgorithmException RSA KeyGenerator not available
+1	java.util.IllegalFormatCodePointException
+1	java.util.InputMismatchException Sorry but you can only enter integers
+1	java.util.NoSuchElementException Error 404: intelligence not found (you can't remove from an empty queue)
+1	javax.crypto.BadPaddingException Message is larger than modulus
+1	javax.crypto.IllegalBlockSizeException Input length must be multiple of 16 when decrypting with padded cipher
+1	javax.media.nativewindow.NativeWindowException X11Util.Display: Unable to create a display(:0.0) connection. Thread main
+1	javax.media.NoPlayerException Cannot find a Player for :file:/C:/Users/Sam/Downloads/Eng Analyzer Basic Operation.wmv
+1	javax.media.NoPlayerException Error instantiating class: com.sun.media.protocol.file.DataSource : java.io.IOException: File Not Found
+1	junit.framework.AssertionFailedError null
+1	ListArray$ListIndexOutOfBoundsException
+1	MissingCharacterException The Character " " isn't encoded in ASCII!
+1	MyRuntimeException THIS IS MY RUNTIME EXCEPTION!
+1	org.apache.commons.codec.DecoderException Odd integer of characters.
+1	org.apache.poi.poifs.filesystem.OfficeXmlFileException The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF)
+1	org.openqa.selenium.InvalidSelectorException The xpath expression ' ' cannot be evaluated
+1	org.openqa.selenium.StaleElementReferenceException Element appears to be stale. Did you navigate away from the page that contained it? And is the current window focussed the same as the one holding this element?
+1	org.openqa.selenium.WebDriverException java.net.MalformedURLException: no protocol: <PROTOCOL>
+1	QueueUnderflowException
+1	QueueUnderflowException Queue is Empty!
+1	StackOverflowException Stack Overflow
+1	Stop
+1	Stop2
+1	sun.awt.X11.XException Cannot write XdndAware property
+1	TextFileErrorException Unexpected Exception in <FILE>: # at #
+1	TextFileErrorException Unexpected Length Of Line in <FILE>: # at #
+1	VendingMachineException Invalid code for vending machine item
+1	<METHOD> in <CLASS> is defined in an inaccessible <CLASS> interface
+1	a generic <CLASS> not extend <NAME>
+1	annotation <NAME> is missing value for the attribute value
+1	C:\Users\Yanez\Desktop\desk\suma.java:10: cannot find symbol - variable <NAME>
+1	cannot create array with type arguments
+1	cannot declare both main(java.lang.String...) and main(java.lang.String[]) in squaresofintegers
+1	cannot find symbol - static Out
+1	diamond operator is not supported in -source 1.5\n (use -source 7 or higher to enable diamond operator)
+1	error reading: (Das System kann die angegebene Datei nicht finden)
+1	error reading: (Permission denied)
+1	error reading: (The system cannot find the path specified)
+1	error while writing: (Acces refuse)
+1	error while writing: (Invalid argument)
+1	error while writing: (The drive cannot find the sector requested)
+1	error while writing: (The handle is invalid)
+1	error while writing: (The operation could not be completed because the volume is dirty.
+1	error while writing: The system cannot find the file specified
+1	error while writing: The volume for a file has been externally altered so that the opened file is no longer valid
+1	error: error reading: (bad signature)
+1	improperly formed type, some parameters are missing
+1	improperly formed type, type arguments given on a raw type
+1	multi-catch parameter <NAME> may not be assigned
+1	onCommand(org.bukkit.command.CommandSender,org.bukkit.command.Command,java.lang.String,java.lang.String[]) in accretion.AccretionMusic cannot implement onCommand(org.bukkit.command.CommandSender,org.bukkit.command.Command,java.lang.String,java.lang.String
+1	qualified new of static class
+1	static import declarations are not supported in -source 1.4\n (use -source 5 or higher to enable static import declarations)
+1	try-with-resources not applicable to <VARIABLE>\n required: <TYPE> found: <TYPE>

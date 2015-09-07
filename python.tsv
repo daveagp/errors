@@ -1,0 +1,283 @@
+179624	SyntaxError: invalid syntax
+97186	NameError: name '' is not defined
+76026	EOFError: EOF when reading a line
+26097	SyntaxError: unexpected EOF while parsing
+20758	IndentationError: unindent does not match any outer indentation level
+16673	SyntaxError: EOL while scanning string literal
+16166	IndentationError: unexpected indent
+13599	TabError: inconsistent use of tabs and spaces in indentation
+11788	IndentationError: expected an indented block
+11592	ValueError: invalid literal for func() with base #: ''
+10327	TypeError: '' object is not iterable
+9762	TypeError: '' object is not callable
+9656	TypeError: can't multiply sequence by non-int of type ''
+8851	TypeError: unsupported operand type(s) for +: '' and ''
+8073	NameError: global name '' is not defined
+6843	TypeError: unsupported operand type(s) for -: '' and ''
+6707	IndexError: string index out of range
+6326	SyntaxError: unexpected character after line continuation character
+6005	TypeError: Can't convert '' object to str implicitly
+5874	TypeError: unsupported operand type(s) for //: '' and ''
+5627	AttributeError: '' object has no attribute ''
+5584	TypeError: '' object is not subscriptable
+5553	TypeError: string indices must be integers
+5030	IndexError: list index out of range
+4005	SyntaxError: can't assign to function call
+3360	UnboundLocalError: local variable '' referenced before assignment
+3277	SyntaxError: can't assign to operator
+2712	ValueError: could not convert string to float: ''
+2656	TypeError: unorderable types: func() > func()
+2643	TypeError: not all arguments converted during string formatting
+2633	TypeError: object of type '' has no func()
+2455	TypeError: '' object cannot be interpreted as an integer
+2266	TypeError: list indices must be integers, not <TYPE>
+2208	TypeError: an integer is required
+2080	TypeError: unsupported operand type(s) for /: '' and ''
+2026	TypeError: func() expected string of length #, but <TYPE> found
+2025	RuntimeError: maximum recursion depth exceeded while calling a Python object
+1995	TypeError: unsupported operand type(s) for ** or func(): '' and ''
+1734	IndexError: list assignment index out of range
+1702	TypeError: slice indices must be integers or None or have an __index__ method
+1658	TypeError: unsupported operand type(s) for *: '' and ''
+1475	SyntaxError: break outside loop
+1453	TypeError: func() expected a character, but string of length # found
+1431	SyntaxError: return outside function
+1345	SyntaxError: can't assign to literal
+1330	TypeError: unorderable types: func() < func()
+1209	ValueError: ? is not in list
+1133	TypeError: func() argument must be a string or a number, not ''
+1090	TypeError: can only concatenate list (not "") to list
+1070	TypeError: '' object does not support item assignment
+1062	ValueError: math domain error
+923	SyntaxError: invalid token
+912	TypeError: func() takes exactly # arguments (# given)
+867	RuntimeError: maximum recursion depth exceeded in comparison
+832	TypeError: '' is an invalid keyword argument for this function
+806	TypeError: unorderable types: func() >= func()
+784	SyntaxError: invalid character in identifier
+749	TypeError: func() missing # required positional arguments: ''
+721	MemoryError
+648	TypeError: bad operand type for unary +: ''
+634	ZeroDivisionError: integer division or modulo by zero
+585	SyntaxError: continue not properly in loop
+480	TypeError: unsupported operand type(s) for ^: '' and ''
+426	TypeError: func() takes at least # arguments (# given)
+403	TypeError: bad operand type for unary -: ''
+394	SyntaxError: keyword can't be an expression
+373	RuntimeError: maximum recursion depth exceeded
+360	TypeError: descriptor '' requires a '' object but received a ''
+353	TypeError: func() takes no arguments (# given)
+346	ValueError: list.remove(x): x not in list
+344	ZeroDivisionError: division by zero
+335	TypeError: a float is required
+323	TypeError: func() argument must be a string or a number
+310	SyntaxError: can use starred expression only as assignment target
+284	TypeError: unorderable types: func() <= func()
+271	PermissionError: [Errno #] Permission denied: ''
+261	TypeError: func() takes # positional arguments but # were given
+248	TypeError: can only concatenate tuple (not "") to tuple
+224	TypeError: argument of type '' is not iterable
+210	ImportError: No module named ''
+203	TypeError: unsupported operand type(s) for %: '' and ''
+189	SyntaxError: non-keyword arg after keyword arg
+185	TypeError: func() argument after * must be a sequence, not <TYPE>
+185	TypeError: unsupported operand type(s) for +=: '' and ''
+178	TypeError: func() takes no keyword arguments
+173	SyntaxError: EOF while scanning triple-quoted string literal
+170	ValueError: substring not found
+168	TypeError: func() expected # arguments, got #
+144	ZeroDivisionError: float division by zero
+130	AttributeError: type object '' has no attribute ''
+125	IndexError: pop index out of range
+117	TypeError: func() takes at most # arguments (# given)
+114	ValueError: func() arg is an empty sequence
+107	TypeError: func() expected at most # arguments, got #
+101	ValueError: func() arg not in range(Ox#)
+92	TypeError: unsupported operand type(s) for &: '' and ''
+89	IndexError: tuple index out of range
+87	TypeError: func() can't convert non-string with explicit base
+86	SyntaxWarning: name '' is assigned to before global declaration
+84	BlockingIOError: [Errno #] Resource temporarily unavailable
+84	FileNotFoundError: [Errno #] No such file or directory: ''
+79	ValueError: could not convert string to float:
+76	TypeError: descriptor '' of '' object needs an argument
+68	ValueError: too many values to unpack (expected #)
+60	TypeError: '' requires string as left operand, not <TYPE>
+56	SyntaxError: can't delete function call
+55	SyntaxError: name '' is parameter and global
+52	TypeError: integer argument expected, got float
+51	TypeError: func() first arg must be str or a tuple of str, not <TYPE>
+51	TypeError: int object argument after * must be a sequence, not <TYPE>
+50	TypeError: func() argument # must be str, not <TYPE>
+48	ValueError: empty separator
+47	SyntaxError: can't assign to comparison
+46	TypeError: func() arg # must be a type or tuple of types
+44	ValueError: slice step cannot be zero
+43	AttributeError: '' object attribute '' is read-only
+43	KeyError: ?
+43	TypeError: '' object doesn't support item deletion
+39	ImportError: No module named ''; math is not a package
+38	OverflowError: (#, 'Numerical result out of range')
+38	PermissionError: [Errno #] Operation not permitted
+38	ValueError: not allowed to raise maximum limit
+36	ValueError: need more than # value to unpack
+36	socket.gaierror: [Errno -#] Name or service not known
+35	TypeError: func() takes # or # arguments
+34	ValueError: func() arg # must be >= # and <= #
+33	TypeError: '' object does not support item deletion
+32	TypeError: decoding str is not supported
+32	UnicodeEncodeError: '' codec can't encode character '' in position #: surrogates not allowed
+30	TypeError: source code string cannot contain null bytes
+26	TypeError: func() got an unexpected keyword argument
+25	SyntaxError: assignment to keyword
+24	TypeError: func() does not take keyword arguments
+24	TypeError: sequence item #: expected str instance, <TYPE> found
+23	SyntaxError: only named arguments may follow *expression
+23	ValueError: attempt to assign sequence of size # to extended slice of size #
+21	TypeError: bad operand type for func(): ''
+20	SyntaxError: duplicate argument '' in function definition
+18	TypeError: (Raised by CS Circles) func() can only be applied to numbers
+18	TypeError: not enough arguments for format string
+18	TypeError: unsupported operand type(s) for |: '' and ''
+18	ValueError: func() arg # must not be zero
+18	ValueError: need more than # values to unpack
+18	ZeroDivisionError: float modulo
+17	TypeError: func() expected at least # arguments, got #
+16	TypeError: unhashable type: ''
+16	TypeError: unsupported operand type(s) for -=: '' and ''
+15	TypeError: must assign iterable to extended slice
+14	TypeError: Required argument '' (pos #) not found
+13	StderrExample
+13	SyntaxError: keyword argument repeated
+13	TypeError: can only assign an iterable
+13	TypeError: must use keyword argument for key function
+12	TypeError: '' object does not support indexing
+12	TypeError: func() arg must be None or str
+12	ValueError: unsupported format character '' () at index #
+11	ImportError: cannot import name ?
+11	IndexError: range object index out of range
+11	SyntaxError: (unicode error) '' codec can't decode bytes in position #-#: truncated \\xXX escape
+11	SyntaxError: can't delete literal
+11	TypeError: coercing to str: need bytes, bytearray or buffer-like object, <TYPE> found
+11	ZeroDivisionError: float func()
+10	NotADirectoryError: [Errno #] Not a directory: ''
+10	SyntaxError: illegal expression for augmented assignment
+10	SyntaxError: yield outside function
+10	TypeError: %d format: a number is required, not <TYPE>
+10	TypeError: __str__ returned non-string (type <TYPE>)
+10	TypeError: end must be None or a string, not <TYPE>
+10	TypeError: func() arg # must be a string, bytes or code object
+10	TypeError: type <TYPE> doesn't define ? method
+9	TypeError: can't set attributes of built-in/extension type ''
+9	TypeError: string argument expected, got ''
+9	ZeroDivisionError: #.# cannot be raised to a negative power
+8	AssertionError
+8	SyntaxError: (unicode error) '' codec can't decode bytes in position #-#: truncated \\uXXXX escape
+8	SyntaxWarning: name '' is used prior to global declaration
+7	AttributeError: __exit__
+7	SyntaxError: can't assign to conditional expression
+7	TypeError: (Raised by CS Circles) func() can only be applied to non-negative integers
+7	TypeError: NoneType object argument after * must be a sequence, not <TYPE>
+7	TypeError: float object argument after * must be a sequence, not <TYPE>
+7	TypeError: unsupported operand type(s) for <<: '' and ''
+6	OSError: [Errno #] File too large
+6	SyntaxError: starred assignment target must be in a list or tuple
+6	TypeError: str object argument after * must be a sequence, not <TYPE>
+6	ValueError: Unknown format code '' for object of type ''
+5	PermissionError: [Errno #] Permission denied
+5	TypeError: The fill character cannot be converted to Unicode
+5	TypeError: expected # arguments, got #
+5	TypeError: type object argument after * must be a sequence, not <TYPE>
+5	ValueError: incomplete format
+5	socket.gaierror: [Errno -#] No address associated with hostname
+4	IndexError: pop from empty list
+4	OverflowError: long int too large to convert to float
+4	RuntimeError: maximum recursion depth exceeded while getting the repr of a list
+4	SyntaxError: (unicode error) '' codec can't decode bytes in position #-#: end of string in escape sequence
+4	SyntaxError: can't assign to ()
+4	TypeError
+4	TypeError: can't convert complex to float
+4	TypeError: can't take floor of complex number.
+4	TypeError: must be bytes, not <TYPE>
+4	TypeError: unsupported operand type(s) for >>: '' and ''
+4	TypeError: unsupported operand type(s) for func(): '' and ''
+4	ValueError: Invalid format specifier
+4	ValueError: tuple.index(x): x not in tuple
+3	IndentationError: unexpected unindent
+3	IsADirectoryError: [Errno #] Is a directory: ''
+3	OSError: [Errno #] Function not implemented
+3	OverflowError: signed integer is greater than maximum
+3	SyntaxError: (unicode error) '' codec can't decode bytes in position #-#: truncated \\UXXXXXXXX escape
+3	SyntaxError: Generator expression must be parenthesized if not sole argument
+3	SyntaxError: can't delete ()
+3	SyntaxError: cannot mix bytes and nonbytes literals
+3	TypeError: %i format: a number is required, not <TYPE>
+3	TypeError: '' does not support the buffer interface
+3	TypeError: '' object is not an iterator
+3	TypeError: The fill character must be exactly one character long
+3	TypeError: can't convert complex to int
+3	TypeError: format requires a mapping
+3	TypeError: func() argument after ** must be a mapping, not <TYPE>
+3	TypeError: func() got an unexpected keyword argument ''
+3	TypeError: sep must be None or a string, not <TYPE>
+3	ValueError: could not convert string to float: ""
+3	__main__.BailOut
+2	NameError: free variable '' referenced before assignment in enclosing scope
+2	OverflowError: cannot fit '' into an index-sized integer
+2	OverflowError: math range error
+2	RuntimeError: can't start new thread
+2	RuntimeError: maximum recursion depth exceeded while getting the repr of a tuple
+2	StopIteration
+2	SyntaxError: (unicode error) '' codec can't decode bytes in position #-#: malformed \\N character escape
+2	SyntaxError: (unicode error) '' codec can't decode bytes in position #-#: unknown Unicode character name
+2	SyntaxError: no binding for nonlocal '' found
+2	TypeError: bad operand type for unary ~: ''
+2	TypeError: func() can't sum strings [use ''.join(seq) instead]
+2	TypeError: object does not provide __dir__
+2	TypeError: tuple indices must be integers, not <TYPE>
+2	UnicodeEncodeError: '' codec can't encode characters in position #-#: ordinal not in range(#)
+2	ValueError: Unknown conversion specifier b
+2	ValueError: func() only accepts integral values
+2	urllib.error.URLError: <urlopen error [Errno -#] Name or service not known>
+1	AssertionError: You are mathing wrong
+1	FAILED (errors=#)
+1	FileNotFoundError: [Errno #] No such file or directory
+1	ImportError: No module named ''; datetime is not a package
+1	ImportError: No module named ''; random is not a package
+1	OSError: [Errno #] Address already in use
+1	OSError: out of pty devices
+1	ProcessLookupError: [Errno #] No such process
+1	RuntimeError: dictionary changed size during iteration
+1	SyntaxError: can't assign to Ellipsis
+1	SyntaxError: can't delete operator
+1	SyntaxError: from __future__ imports must occur at the beginning of the file
+1	TypeError: Input must be an integer.
+1	TypeError: Tuple or struct_time argument required
+1	TypeError: argument # must have a "" method
+1	TypeError: argument to func() must be a sequence
+1	TypeError: array item must be unicode character
+1	TypeError: bytes expected instead of str instance
+1	TypeError: cannot convert dictionary update sequence element ## to a sequence
+1	TypeError: expected string or buffer
+1	TypeError: func() argument # must be tuple, not <TYPE>
+1	TypeError: func() must have at least two arguments.
+1	TypeError: must be a unicode character, not <TYPE>
+1	TypeError: must be str, not <TYPE>
+1	TypeError: range indices must be integers or slices, not <TYPE>
+1	TypeError: str object argument after ** must be a mapping, not <TYPE>
+1	TypeError: string argument without an encoding
+1	TypeError: unsupported operand type(s) for *=: '' and ''
+1	TypeError: unsupported type for timedelta days component: str
+1	TypeError: zip argument ## must support iteration
+1	UnicodeDecodeError: '' codec can't decode byte Ox# in position #: invalid start byte
+1	ValueError: Format specifier missing precision
+1	ValueError: Nothing to see here!
+1	ValueError: Precision not allowed in integer format specifier
+1	ValueError: Sign not allowed in string format specifier
+1	ValueError: Single '' encountered in format string
+1	ValueError: dictionary update sequence element ## has length #; # is required
+1	ValueError: empty range for func() (#,#, -#)
+1	ValueError: func() not defined for negative values
+1	ValueError: unmatched '' in format
+1	mainfile: error: must provide name of pdb file
+1	sre_constants.error: redefinition of group name '' as group #; was group #
